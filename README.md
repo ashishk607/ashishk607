@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ashishk607/ashishk607/blob/main/boy-coding-with-laptop.png" height="250px" width="250px"/>
+<img src="https://github.com/ashishk607/ashishk607/blob/main/boy-coding-with-laptop.png" height="200px" width="200px"/>
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashish Kumar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
