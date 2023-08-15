@@ -4,6 +4,9 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashish Kumar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+# 💫 About Me:
+
+## 🌐 Socials:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishk607&label=Profile%20views&color=0e75b6&style=flat" alt="ashishk607" /> </p>
 
