@@ -1,4 +1,7 @@
-![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<div align="center">
+<img src="https://github.com/ashishk607/ashishk607/blob/main/boy-coding-with-laptop.png" height="370px" width="370px"/>
+</div>
+<!-- ![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13) -->
 <h1 align="center">Hi 👋, I'm Ashish Kumar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
