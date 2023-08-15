@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ashishk607/ashishk607/blob/main/boy-coding-with-laptop.png" height="370px" width="370px"/>
+<img src="https://github.com/ashishk607/ashishk607/blob/main/boy-coding-with-laptop.png" height="250px" width="250px"/>
 </div>
 <!-- ![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13) -->
 <h1 align="center">Hi 👋, I'm Ashish Kumar Maurya</h1>
